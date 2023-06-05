@@ -1,12 +1,11 @@
 {
+  "name": "create-the-server:rooms_end",
   "elements": [
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:copper_trapped_end",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
@@ -15,9 +14,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:iron_end",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
@@ -26,9 +23,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:hall_end",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1

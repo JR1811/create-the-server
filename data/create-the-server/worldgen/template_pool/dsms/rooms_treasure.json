@@ -1,12 +1,11 @@
 {
+  "name": "create-the-server:rooms_treasure",
   "elements": [
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:iron_generic_v1",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
@@ -15,9 +14,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:iron_generic_v2",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
@@ -26,9 +23,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:iron_end",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
@@ -37,9 +32,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:copper_generic_v1",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
@@ -48,9 +41,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:copper_generic_v2",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
@@ -59,9 +50,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:copper_trapped",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
@@ -70,9 +59,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:copper_trapped_end",
-        "processors": {
-          "processors": []
-        },
+        "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1

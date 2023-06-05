@@ -1,14 +1,6 @@
 {
-  "elements": [
-    {
-      "element": {
-        "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:copper_trapped_end",
-        "processors": "minecraft:empty",
-        "projection": "rigid"
-      },
-      "weight": 1
-    },
+  "name": "create-the-server:rooms_save",
+  "elements": [    
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
@@ -22,24 +14,6 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:hall_end",
-        "processors": "minecraft:empty",
-        "projection": "rigid"
-      },
-      "weight": 1
-    },
-    {
-      "element": {
-        "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:iron_trapped",
-        "processors": "minecraft:empty",
-        "projection": "rigid"
-      },
-      "weight": 1
-    },
-    {
-      "element": {
-        "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:hall_deadly",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -76,15 +50,6 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "location": "create-the-server:copper_generic_v2",
-        "processors": "minecraft:empty",
-        "projection": "rigid"
-      },
-      "weight": 1
-    },
-    {
-      "element": {
-        "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:center",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
