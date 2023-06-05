@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "namespace:directory/directory/structure_name",
+        "location": "create-the-server:iron_generic_v1",
         "processors": {
           "processors": []
         },
@@ -13,29 +13,70 @@
     },
     {
       "element": {
-        "element_type": "minecraft:list_pool_element",
-        "elements": [
-          {
-            "element_type": "minecraft:single_pool_element",
-            "location": "namespace:directory/directory/structure_name",
-            "processors": {
-              "processors": []
-            },
-            "projection": "rigid"
-          },
-          {
-            "element_type": "minecraft:single_pool_element",
-            "location": "namespace:directory/directory/structure_name",
-            "processors": {
-              "processors": []
-            },
-            "projection": "rigid"
-          }
-        ],
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:iron_generic_v2",
+        "processors": {
+          "processors": []
+        },
         "projection": "rigid"
       },
       "weight": 1
-    }
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:iron_end",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:copper_generic_v1",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:copper_generic_v2",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:copper_trapped",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:copper_trapped_end",
+        "processors": {
+          "processors": []
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    }    
   ],
   "fallback": "minecraft:empty"
 }
