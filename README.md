@@ -1,6 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/789869826397962271/1111774777091301426/Create_the_Server.png"  width="700">
+<img src="https://github.com/JR1811/create-the-server/assets/36027822/c771c3ca-93ad-4eb4-9867-733d7af90914"  width="700">
 
-# Datapack for Create the Server
+# Datapack for Create the Server [WIP]
 
 Check the [Wiki](https://github.com/JR1811/create-the-server/wiki) for more information.
 
@@ -11,5 +11,5 @@ Check the [Wiki](https://github.com/JR1811/create-the-server/wiki) for more info
 ## Todo:
 
 - [ ] add structure `.nbt` files
-- [ ] change the naming of Jigsaw Block's "Name" and "Target Name" from e.g. `create-the-server:short` to `create-the-server:dsms/short`.
+- [ ] change the name of e.g. `create-the-server:short` to `create-the-server:dsms/short` in the Jigsaw Block's "Name" and "Target Name".
 - [ ] Change the weight of structure modules in the template_pool's structure modul groups
