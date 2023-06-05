@@ -1,10 +1,10 @@
 {
-  "name": "create-the-server:no_treasure",
+  "name": "create-the-server:dsms/no_treasure",
   "elements": [
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:hall_end",
+        "location": "create-the-server:dsms/hall_end",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -13,7 +13,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:hall_deadly",
+        "location": "create-the-server:dsms/hall_deadly",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -22,7 +22,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:turn_v1",
+        "location": "create-the-server:dsms/turn_v1",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -31,12 +31,21 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:turn_v2",
+        "location": "create-the-server:dsms/turn_v2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:dsms/vertical",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
     }
   ],
-  "fallback": "minecraft:empty"
+  "fallback": "create-the-server:dsms/hall_end"
 }

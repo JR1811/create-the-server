@@ -1,10 +1,10 @@
 {
-  "name": "create-the-server:rooms_treasure",
+  "name": "create-the-server:dsms/rooms_treasure",
   "elements": [
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:iron_generic_v1",
+        "location": "create-the-server:dsms/iron_generic_v1",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -13,7 +13,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:iron_generic_v2",
+        "location": "create-the-server:dsms/iron_generic_v2",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -22,7 +22,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:iron_end",
+        "location": "create-the-server:dsms/iron_end",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -31,7 +31,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:copper_generic_v1",
+        "location": "create-the-server:dsms/copper_generic_v1",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -40,7 +40,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:copper_generic_v2",
+        "location": "create-the-server:dsms/copper_generic_v2",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -49,7 +49,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:copper_trapped",
+        "location": "create-the-server:dsms/copper_trapped",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -58,12 +58,12 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:copper_trapped_end",
+        "location": "create-the-server:dsms/copper_trapped_end",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
     }    
   ],
-  "fallback": "minecraft:empty"
+  "fallback": "create-the-server:dsms/iron_end"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "create-the-server:rooms_trap",
+  "name": "create-the-server:dsms/rooms_trap",
   "elements": [
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:iron_trapped",
+        "location": "create-the-server:dsms/iron_trapped",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -13,7 +13,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:copper_trapped",
+        "location": "create-the-server:dsms/copper_trapped",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -22,7 +22,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:copper_trapped_end",
+        "location": "create-the-server:dsms/copper_trapped_end",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -31,12 +31,12 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:hall_deadly",
+        "location": "create-the-server:dsms/hall_deadly",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
     }
   ],
-  "fallback": "minecraft:empty"
+  "fallback": "create-the-server:dsms/copper_trapped_end"
 }

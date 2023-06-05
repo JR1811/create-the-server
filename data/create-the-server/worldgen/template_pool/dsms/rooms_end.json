@@ -1,10 +1,10 @@
 {
-  "name": "create-the-server:rooms_end",
+  "name": "create-the-server:dsms/rooms_end",
   "elements": [
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:copper_trapped_end",
+        "location": "create-the-server:dsms/copper_trapped_end",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -13,7 +13,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:iron_end",
+        "location": "create-the-server:dsms/iron_end",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
@@ -22,12 +22,12 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "create-the-server:hall_end",
+        "location": "create-the-server:dsms/hall_end",
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
       "weight": 1
     }
   ],
-  "fallback": "minecraft:empty"
+  "fallback": "create-the-server:dsms/hall_end"
 }
