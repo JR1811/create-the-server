@@ -7,10 +7,3 @@ Check the [Wiki](https://github.com/JR1811/create-the-server/wiki) for more info
 ## Structures
 
 - Deepslate Mineshaft (dsms)
-
-#### Module ideas
-
-- module for a vertical drop
-- module for big turn
-- module for fake dead end e.g. partly collaped
-- module with custom enemies floating from the ceeling with slow falling
