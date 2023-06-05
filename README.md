@@ -20,9 +20,9 @@
   - create-the-server:hall_v1
   - create-the-server:hall_v2
   - create-the-server:hall_end
-  - create-the-server:hall_long_v1 
+  - create-the-server:hall_long_v1
   - create-the-server:hall_long_v2
-  - create-the-server:hall_deadly 
+  - create-the-server:hall_deadly
 
 #### Module ideas
 
@@ -31,9 +31,9 @@
 - module for fake dead end e.g. partly collaped
 - module with custom enemies floating from the ceeling with slow falling
 
-## Connection
+#### Connection
 
-Structure modules are connected by different lengths of segments in the building. Short connecting sides are placed on long connecting sides and vice versa.
+Dsms modules are connected by different lengths of segments in the building. Short connecting sides are placed on long connecting sides and vice versa.
 
 - create-the-server:short
 - create-the-server:long
@@ -42,7 +42,7 @@ Structure modules are connected by different lengths of segments in the building
 
 - treassure_room
 - trap_room
-- connector_room
+- generic
 - end_room
 
 
