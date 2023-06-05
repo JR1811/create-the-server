@@ -11,5 +11,5 @@ Check the [Wiki](https://github.com/JR1811/create-the-server/wiki) for more info
 ## Todo:
 
 - [ ] add structure `.nbt` files
-- [ ] change the naming of Jigsaw Block's "Name" and "Target Name" from e.g. `create-the-server:short` to `create-the-server:dsms/short`.
+- [ ] change the name of e.g. `create-the-server:short` to `create-the-server:dsms/short` in the Jigsaw Block's "Name" and "Target Name".
 - [ ] Change the weight of structure modules in the template_pool's structure modul groups
