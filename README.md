@@ -7,3 +7,9 @@ Check the [Wiki](https://github.com/JR1811/create-the-server/wiki) for more info
 ## Structures
 
 - Deepslate Mineshaft (dsms)
+
+## Todo:
+
+- [ ] add structure `.nbt` files
+- [ ] change the naming of Jigsaw Block's "Name" and "Target Name" from e.g. `create-the-server:short` to `create-the-server:dsms/short`.
+- [ ] Change the weight of structure modules in the template_pool's structure modul groups
