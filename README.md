@@ -2,6 +2,8 @@
 
 # Datapack for Create the Server
 
+Check the [Wiki](https://github.com/JR1811/create-the-server/wiki) for more information.
+
 ## Structures
 
 - Deepslate Mineshaft (dsms)
