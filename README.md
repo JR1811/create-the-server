@@ -29,10 +29,18 @@
 - module for fake dead end e.g. partly collaped
 - module with custom enemies floating from the ceeling with slow falling
 
+## Connection
+
+Structure modules are connected by different lengths of segments in the building. Short connecting sides are placed on long connecting sides and vice versa.
+
+- create-the-server:short
+- create-the-server:long
+
 ## Categories
 
 - treassure_room
 - trap_room
 - connector_room
 - end_room
+
 
