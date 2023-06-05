@@ -98,7 +98,7 @@
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 2
     },
     {
       "element": {
@@ -107,7 +107,7 @@
         "processors": "minecraft:empty",
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 2
     },
     {
       "element": {
@@ -117,7 +117,26 @@
         "projection": "rigid"
       },
       "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:dsms/hall_spawner",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:dsms/hall_collapsed",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
     }
   ],
   "fallback": "create-the-server:dsms/hall_end"
 }
+
