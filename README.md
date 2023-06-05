@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/789869826397962271/1111774777091301426/Create_the_Server.png"  width="700">
+<img src="https://github.com/JR1811/create-the-server/assets/36027822/c771c3ca-93ad-4eb4-9867-733d7af90914"  width="700">
 
 # Datapack for Create the Server [WIP]
 
