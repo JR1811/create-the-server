@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/789869826397962271/1111774777091301426/Create_the_Server.png"  width="700">
+
 # Datapack for Create the Server
 
 ## Structures
