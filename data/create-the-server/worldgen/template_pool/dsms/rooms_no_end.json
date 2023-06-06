@@ -110,5 +110,5 @@
       "weight": 1
     }
   ],
-  "fallback": "create-the-server:dsms/hall_v1"
+  "fallback": "create-the-server:dsms/rooms_turn"
 }

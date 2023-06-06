@@ -47,5 +47,5 @@
       "weight": 1
     }
   ],
-  "fallback": "create-the-server:dsms/copper_trapped_end"
+  "fallback": "create-the-server:dsms/rooms_save"
 }
