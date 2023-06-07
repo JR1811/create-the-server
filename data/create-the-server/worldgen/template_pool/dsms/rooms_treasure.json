@@ -65,5 +65,5 @@
       "weight": 1
     }    
   ],
-  "fallback": "create-the-server:dsms/rooms_trapped"
+  "fallback": "create-the-server:dsms/rooms_turn"
 }
